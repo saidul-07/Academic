@@ -1,0 +1,4 @@
+Python Interpreter and VS Code Installation Process:
+ https://www.youtube.com/watch?v=ouvOYElia1A
+ https://www.python.org/downloads/
+ https://code.visualstudio.com/
